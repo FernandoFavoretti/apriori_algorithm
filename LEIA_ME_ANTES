@@ -1,0 +1,57 @@
+Professora,
+
+Para a entrega deste Trabalho criamos a nossa versão do algoritmo apriori baseado nos slides visto em sala.
+
+A linguagem utilizada foi python (VERSAO 3.6)
+
+Estamos fazendo upload de todo o código, contendo os seguintes arquivos:
+
+requirements.txt -> contem todas as bibliotecas necessárias para rodar os arquivos, para instalar as mesmas basta executar o comando (tendo o python 3.6 e o pip ja instalados) "pip install -r requirements.txt"
+
+pasta Apriori: Contem todo o código fonte, resultados e datasets resultantes do trabalho, separado em pastas:
+        
+1 - Dataset obrigatório:
+
+Congress_voting_records - pasta contendo o código,resultado e dataset da primeira parte da tarefa com o dataset obrigatorio organizado em pastas:
+
+| /data - contem o dataset original e o dataset limpo pronto para ser usado
+   
+| -> Preparacao_Congressional_Voting.ipynb - Arquivo jupyter notebook contendo todo o código demonstrado no vídeo para parte de PREPARAÇÃO DO DADO
+| -> Preparacao_Congressional_Voting.html  - Arquivo HTML baseado no arquivo jupyter notebook acima, caso não seja possível visualizar pelo notebook
+| -> Preparacao_Congressional_Voting.py    - Código python puro dos arquivos acima
+
+| -> Apriori_Voting_Records.ipynb          - Arquivo jupyter notebook contendo todo o código demonstrado no vídeo para de criação e realização do algoritmo apriori baseado na saída gerada pela parte de preparação acima
+| -> Apriori_Voting_Records.html           - Arquivo HTML baseado no arquivo jupyter notebook acima, caso não seja possível visualizar pelo notebook
+| -> Apriori_Voting_Records.py             - Código python puro dos arquivos acima
+
+
+2 - Dataset a nossa escolha
+
+Essa parte do trabalho pode ser encontrada na pastaa 'movielens', que tem a mesma estrutura da pasta acima (dataset original e pós preparação na pasta 'data' e demais arquivos nas mesmas 3 extensões)
+
+
+**IMPORTANTE**
+
+Os arquivos .ipynb podem ser executados e visto utilizando o jupyter notebook (http://jupyter.org/) ou (pip install jupyter), aos executar podem ser feitas interações diversas com o código
+
+Caso por algum motivo não seja possível utilizar o jupyter recomendamos FORTEMENTE que sejam vistos os arquivos HTML, uma vez que os mesmos são cópia não interativas dos notebooks gerados pelo jupyter, 
+
+também estamos enviando arquivos .py que podem ser executados normalmente mas que não apresentam tanta informação como os arquivos ipynb e html acima, então novamente, por favor, utilizem o jupyter ou o arquivo html para vistoria.
+
+
+-----------------------------------------------------------
+
+
+Vídeo 
+
+Para a parte do vídeo estamos enviando um link privado no youtube, com o vídeo explicativo 
+
+
+Muito Obrigado,
+
+Fernando Favoretti  8598815
+Thiago Nobayashi    8516708
+
+
+
+
